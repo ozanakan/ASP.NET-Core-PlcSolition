@@ -1,0 +1,15 @@
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\bin\Debug\net5.0\Plc.Entities.deps.json
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\bin\Debug\net5.0\Plc.Entities.dll
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\bin\Debug\net5.0\ref\Plc.Entities.dll
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\bin\Debug\net5.0\Plc.Entities.pdb
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\bin\Debug\net5.0\Plc.Shared.dll
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\bin\Debug\net5.0\Plc.Shared.pdb
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\obj\Debug\net5.0\Plc.Entities.csproj.AssemblyReference.cache
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\obj\Debug\net5.0\Plc.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\obj\Debug\net5.0\Plc.Entities.AssemblyInfoInputs.cache
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\obj\Debug\net5.0\Plc.Entities.AssemblyInfo.cs
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\obj\Debug\net5.0\Plc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\obj\Debug\net5.0\Plc.Entities.csproj.CopyComplete
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\obj\Debug\net5.0\Plc.Entities.dll
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\obj\Debug\net5.0\ref\Plc.Entities.dll
+C:\Users\massive\source\repos\PlcSolution\Plc.Entities\obj\Debug\net5.0\Plc.Entities.pdb

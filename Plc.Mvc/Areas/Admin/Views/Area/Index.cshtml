@@ -1,0 +1,64 @@
+﻿@using Plc.Shared.Utilities.Results.ComplexTypes
+
+@model Plc.Entities.Dtos.AreaListDto
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Area Index";
+}
+
+@if (Model.ResultStatus == ResultStatus.Success)
+{
+    <div id="modelPlaceHolder" aria-hidden="true"></div>
+    <div class="card mb-4 mt-3">
+        <div class="card-header">
+            <i class="fas fa-table mr-1"></i>
+            Area DataTable
+        </div>
+        <div class="card-body">
+            <div class="spinner-border" role="status" style="display: none">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-bordered" id="areasTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Area Name</th>
+                            <th width="30%">Options</th>
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <th>ID</th>
+                            <th>Area Name</th>
+                            <th width="30%">Options</th>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                        @foreach (var area in Model.Areas)
+                        {
+                            <tr name="@area.Id">
+                                <td>@area.Id</td>
+                                <td>@area.Name</td>
+                                <td> 
+                                    <button class="btn btn-info btn-sm btn-update" data-id="@area.Id"><span class="fas fa-edit"></span>Update</button>
+                                    <button class="btn btn-danger btn-sm  btn-delete" data-id="@area.Id"><span class="fas fa-minus-circle"></span>Delete</button>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+}
+@if (Model.ResultStatus == ResultStatus.Error)
+{
+    <div class="alert alert-danger mt-3">
+        @Model.Message<br />
+    </div>
+}
+@section Scripts
+{
+    <script src="~/js/areaIndex.js" type="application/ecmascript"></script>
+}

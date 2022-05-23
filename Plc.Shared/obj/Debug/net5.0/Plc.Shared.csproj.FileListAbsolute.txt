@@ -1,0 +1,12 @@
+C:\Users\massive\source\repos\PlcSolution\Plc.Shared\bin\Debug\net5.0\Plc.Shared.deps.json
+C:\Users\massive\source\repos\PlcSolution\Plc.Shared\bin\Debug\net5.0\Plc.Shared.dll
+C:\Users\massive\source\repos\PlcSolution\Plc.Shared\bin\Debug\net5.0\ref\Plc.Shared.dll
+C:\Users\massive\source\repos\PlcSolution\Plc.Shared\bin\Debug\net5.0\Plc.Shared.pdb
+C:\Users\massive\source\repos\PlcSolution\Plc.Shared\obj\Debug\net5.0\Plc.Shared.csproj.AssemblyReference.cache
+C:\Users\massive\source\repos\PlcSolution\Plc.Shared\obj\Debug\net5.0\Plc.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\massive\source\repos\PlcSolution\Plc.Shared\obj\Debug\net5.0\Plc.Shared.AssemblyInfoInputs.cache
+C:\Users\massive\source\repos\PlcSolution\Plc.Shared\obj\Debug\net5.0\Plc.Shared.AssemblyInfo.cs
+C:\Users\massive\source\repos\PlcSolution\Plc.Shared\obj\Debug\net5.0\Plc.Shared.csproj.CoreCompileInputs.cache
+C:\Users\massive\source\repos\PlcSolution\Plc.Shared\obj\Debug\net5.0\Plc.Shared.dll
+C:\Users\massive\source\repos\PlcSolution\Plc.Shared\obj\Debug\net5.0\ref\Plc.Shared.dll
+C:\Users\massive\source\repos\PlcSolution\Plc.Shared\obj\Debug\net5.0\Plc.Shared.pdb
